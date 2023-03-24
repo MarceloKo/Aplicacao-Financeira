@@ -1,0 +1,9 @@
+{
+    "apps":[
+        {
+            "name":"AplicacaoFinanceira",
+            "script": "node",
+            "args": "build/index.js"
+        }
+    ]
+}
